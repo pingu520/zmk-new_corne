@@ -44,7 +44,7 @@ layers:
   - {t: /, s: '?'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:apple-keyboard-control$$
-  - NUMBER
+  - {t: '$$mdi:keyboard-space$$', h: NUMBER}
   - {t: LEFT WIN, h: Fn}
   - {t: '$$mdi:keyboard-space$$', h: Fn}
   - $$mdi:keyboard-space$$
