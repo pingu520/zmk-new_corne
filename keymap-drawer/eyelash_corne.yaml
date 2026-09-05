@@ -48,7 +48,7 @@ layers:
   - {t: LEFT WIN, h: Fn}
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
-  - {t: '$$mdi:keyboard-return$$', h: SYMBOL}
+  - SYMBOL
   NUMBER:
   - $$mdi:keyboard-esc$$
   - {t: '1', s: '!'}
